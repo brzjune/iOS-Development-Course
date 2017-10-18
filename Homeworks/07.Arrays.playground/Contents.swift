@@ -16,20 +16,3 @@ for i in alphabet07.characters  {
 }
 print("Alphabet = \(array07)")
 print("\n")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
